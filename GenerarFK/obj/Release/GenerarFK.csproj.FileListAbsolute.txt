@@ -1,0 +1,4 @@
+C:\Documents and Settings\XX1\Mis documentos\SharpDevelop Projects\GenerarFK\GenerarFK\bin\Release\GenerarFK.exe.config
+C:\Documents and Settings\XX1\Mis documentos\SharpDevelop Projects\GenerarFK\GenerarFK\bin\Release\GenerarFK.exe
+C:\Documents and Settings\XX1\Mis documentos\SharpDevelop Projects\GenerarFK\GenerarFK\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\XX1\Mis documentos\SharpDevelop Projects\GenerarFK\GenerarFK\obj\Release\GenerarFK.exe
