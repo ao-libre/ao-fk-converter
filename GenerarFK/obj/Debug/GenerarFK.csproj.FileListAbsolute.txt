@@ -4,3 +4,10 @@ C:\Documents and Settings\XX1\Mis documentos\SharpDevelop Projects\GenerarFK\Gen
 C:\Documents and Settings\XX1\Mis documentos\SharpDevelop Projects\GenerarFK\GenerarFK\obj\Debug\ResolveAssemblyReference.cache
 C:\Documents and Settings\XX1\Mis documentos\SharpDevelop Projects\GenerarFK\GenerarFK\obj\Debug\GenerarFK.exe
 C:\Documents and Settings\XX1\Mis documentos\SharpDevelop Projects\GenerarFK\GenerarFK\obj\Debug\GenerarFK.pdb
+F:\Projects\VB6\Argentum\ao-fk-converter-master\GenerarFK\obj\Debug\GenerarFK.csprojAssemblyReference.cache
+F:\Projects\VB6\Argentum\ao-fk-converter-master\GenerarFK\obj\Debug\GenerarFK.csproj.CoreCompileInputs.cache
+F:\Projects\VB6\Argentum\ao-fk-converter-master\GenerarFK\obj\Debug\GenerarFK.exe
+F:\Projects\VB6\Argentum\ao-fk-converter-master\GenerarFK\obj\Debug\GenerarFK.pdb
+F:\Projects\VB6\Argentum\ao-fk-converter-master\GenerarFK\bin\Debug\GenerarFK.exe.config
+F:\Projects\VB6\Argentum\ao-fk-converter-master\GenerarFK\bin\Debug\GenerarFK.exe
+F:\Projects\VB6\Argentum\ao-fk-converter-master\GenerarFK\bin\Debug\GenerarFK.pdb

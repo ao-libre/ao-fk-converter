@@ -8,7 +8,6 @@
  */
 using System;
 using System.IO;
-using AO;
 
 namespace GenerarFK
 {
@@ -53,7 +52,7 @@ namespace GenerarFK
 							break;
 							
 						case 2:
-							CrearFK();
+                            CrearFK();
 							break;
 							
 						case 3:
