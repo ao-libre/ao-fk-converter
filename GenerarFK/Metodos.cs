@@ -17,9 +17,8 @@ namespace GenerarFK
 		private static string fkFile = @"INIT/FK.ind";
 		private static tCabecera miCabecera;
 		private static int numeroMapas;
-		private static List<int> listaMapas;
-		
-		public static tCabecera GenerarCabezera(BinaryReader rFile)
+
+        public static tCabecera GenerarCabezera(BinaryReader rFile)
 		{
 			tCabecera retval;
 			
@@ -45,9 +44,18 @@ namespace GenerarFK
 			StreamReader rFile;
 			BinaryWriter wFile;
 			string tmp;
-			short max = 400; 
-			
-			if(!File.Exists(@"INIT/FK.txt"))
+			short max = -1;
+
+            Console.WriteLine("Indique la cantidad de mapas a crear (max: " + short.MaxValue + "): ");
+
+            
+            if (!short.TryParse(Console.ReadLine(),out max) || max == -1)
+            {
+                Console.WriteLine("ERROR: no se envio un numero de mapas valido.");
+                return;
+            }
+
+            if (!File.Exists(@"INIT/FK.txt"))
 			{
 				Console.WriteLine("No existe el archivo FK.txt");
 				return;

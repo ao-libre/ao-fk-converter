@@ -2,3 +2,7 @@ C:\Documents and Settings\XX1\Mis documentos\SharpDevelop Projects\GenerarFK\Gen
 C:\Documents and Settings\XX1\Mis documentos\SharpDevelop Projects\GenerarFK\GenerarFK\bin\Release\GenerarFK.exe
 C:\Documents and Settings\XX1\Mis documentos\SharpDevelop Projects\GenerarFK\GenerarFK\obj\Release\ResolveAssemblyReference.cache
 C:\Documents and Settings\XX1\Mis documentos\SharpDevelop Projects\GenerarFK\GenerarFK\obj\Release\GenerarFK.exe
+F:\Projects\VB6\Argentum\ao-fk-converter-master\GenerarFK\bin\Release\GenerarFK.exe.config
+F:\Projects\VB6\Argentum\ao-fk-converter-master\GenerarFK\bin\Release\GenerarFK.exe
+F:\Projects\VB6\Argentum\ao-fk-converter-master\GenerarFK\obj\Release\GenerarFK.csproj.CoreCompileInputs.cache
+F:\Projects\VB6\Argentum\ao-fk-converter-master\GenerarFK\obj\Release\GenerarFK.exe
