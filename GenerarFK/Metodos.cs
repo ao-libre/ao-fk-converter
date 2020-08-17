@@ -49,7 +49,7 @@ namespace GenerarFK
             Console.WriteLine("Indique la cantidad de mapas a crear (max: " + short.MaxValue + "): ");
 
             
-            if (!short.TryParse(Console.ReadLine(),out max) || max == -1)
+            if (!short.TryParse(Console.ReadLine(),out max) || max <= 0)
             {
                 Console.WriteLine("ERROR: no se envio un numero de mapas valido.");
                 return;
